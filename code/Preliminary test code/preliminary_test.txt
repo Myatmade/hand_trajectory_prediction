@@ -1,0 +1,9 @@
+Preliminary test codes
+
+This contains hand_basic.py, test_camera_media.py and robot_pos_detect.py.
+
+Hand_basic.py is to test mediapipe and opencv with a normal webcam.
+
+Test_camera_media.py is to test depth camera, mediapipe and opencv.
+
+Robot_pos_detect.py is to test robot positions and hand position with depth camera.

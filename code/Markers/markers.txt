@@ -1,0 +1,5 @@
+Markers code
+
+The marker.py contains the code to generate 4 markers to be placed on the tabletop.
+
+The robot_marker.py contains the code to generate 2 markers to be placed on the ventral (below) side of the two robots.

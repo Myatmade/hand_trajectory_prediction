@@ -1,0 +1,3 @@
+Data collection
+
+This test_data_collect_label.py contains the code to collect x and y coordinates and z (true depth) point for index finger for 9 points and 15 sequences per point.
